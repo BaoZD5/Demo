@@ -13,5 +13,9 @@ namespace WebAppCore.Controllers
             ViewData["x"] = "xxxxxxxx";
             return View();
         }
+        public IActionResult detail()
+        {
+            return View();
+        }
     }
 }
