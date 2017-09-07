@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\BaoZD\\ZL_Sport\\CoreConseleApp\\CoreConseleApp\\CoreConseleApp.csproj",
+      "projectUniqueName": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\CoreConseleApp\\CoreConseleApp.csproj",
       "projectName": "CoreConseleApp",
-      "projectPath": "D:\\SourceCode\\BaoZD\\ZL_Sport\\CoreConseleApp\\CoreConseleApp\\CoreConseleApp.csproj",
+      "projectPath": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\CoreConseleApp\\CoreConseleApp.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCode\\BaoZD\\ZL_Sport\\CoreConseleApp\\CoreConseleApp\\obj\\",
+      "outputPath": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\CoreConseleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
