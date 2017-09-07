@@ -1,0 +1,10 @@
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.deps.json
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.runtimeconfig.json
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.runtimeconfig.dev.json
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.dll
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.pdb
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.csprojResolveAssemblyReference.cache
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.AssemblyInfo.cs
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.dll
+D:\SourceCode\BaoZD\ZL_Sport\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.pdb
