@@ -13,7 +13,6 @@ D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\bin\Debug\netco
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.runtimeconfig.dev.json
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.dll
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\bin\Debug\netcoreapp1.1\CoreConseleApp.pdb
-D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.csprojResolveAssemblyReference.cache
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.csproj.CoreCompileInputs.cache
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.AssemblyInfo.cs
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.dll
