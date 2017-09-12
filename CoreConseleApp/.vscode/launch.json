@@ -24,7 +24,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/WebAppCore2/bin/Debug/netcoreapp1.1/WebAppCore2.dll",
+            "program": "${workspaceRoot}/WebAppCore2/bin/Debug/netcoreapp1.1/MyCore.dll",
             "args": [],
             "cwd": "${workspaceRoot}/WebAppCore2",
             "stopAtEntry": false,
