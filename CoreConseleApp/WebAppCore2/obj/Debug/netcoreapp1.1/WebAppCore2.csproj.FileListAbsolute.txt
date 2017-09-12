@@ -7,3 +7,4 @@ D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcorea
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.AssemblyInfo.cs
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.dll
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.csprojResolveAssemblyReference.cache
