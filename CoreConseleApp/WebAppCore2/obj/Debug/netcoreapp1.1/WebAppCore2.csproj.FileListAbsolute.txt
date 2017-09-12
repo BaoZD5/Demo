@@ -1,0 +1,9 @@
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Debug\netcoreapp1.1\WebAppCore2.deps.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Debug\netcoreapp1.1\WebAppCore2.runtimeconfig.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Debug\netcoreapp1.1\WebAppCore2.runtimeconfig.dev.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Debug\netcoreapp1.1\WebAppCore2.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Debug\netcoreapp1.1\WebAppCore2.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.AssemblyInfo.cs
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Debug\netcoreapp1.1\WebAppCore2.pdb
