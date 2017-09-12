@@ -1,0 +1,10 @@
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\bin\Debug\netcoreapp1.1\WebAppCore1.deps.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\bin\Debug\netcoreapp1.1\WebAppCore1.runtimeconfig.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\bin\Debug\netcoreapp1.1\WebAppCore1.runtimeconfig.dev.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\bin\Debug\netcoreapp1.1\WebAppCore1.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\bin\Debug\netcoreapp1.1\WebAppCore1.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\obj\Debug\netcoreapp1.1\WebAppCore1.csprojResolveAssemblyReference.cache
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\obj\Debug\netcoreapp1.1\WebAppCore1.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\obj\Debug\netcoreapp1.1\WebAppCore1.AssemblyInfo.cs
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\obj\Debug\netcoreapp1.1\WebAppCore1.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore1\obj\Debug\netcoreapp1.1\WebAppCore1.pdb
