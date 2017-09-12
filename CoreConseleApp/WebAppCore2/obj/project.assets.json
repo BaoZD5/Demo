@@ -10756,9 +10756,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\WebAppCore2\\WebAppCore2.csproj",
-      "projectName": "WebAppCore2",
-      "projectPath": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\WebAppCore2\\WebAppCore2.csproj",
+      "projectUniqueName": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\WebAppCore2\\MyCore.csproj",
+      "projectName": "MyCore",
+      "projectPath": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\WebAppCore2\\MyCore.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
       "outputPath": "D:\\SourceCode\\BaoZD\\Documents\\Demo\\CoreConseleApp\\WebAppCore2\\obj\\",
       "projectStyle": "PackageReference",
