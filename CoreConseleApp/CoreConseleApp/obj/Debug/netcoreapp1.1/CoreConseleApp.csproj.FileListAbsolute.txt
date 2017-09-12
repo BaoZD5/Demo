@@ -17,3 +17,4 @@ D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netco
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.AssemblyInfo.cs
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.dll
 D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\CoreConseleApp\obj\Debug\netcoreapp1.1\CoreConseleApp.csprojResolveAssemblyReference.cache
