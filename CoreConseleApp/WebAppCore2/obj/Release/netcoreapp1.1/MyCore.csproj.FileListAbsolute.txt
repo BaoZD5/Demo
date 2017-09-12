@@ -1,0 +1,10 @@
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Release\netcoreapp1.1\MyCore.deps.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Release\netcoreapp1.1\MyCore.runtimeconfig.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Release\netcoreapp1.1\MyCore.runtimeconfig.dev.json
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Release\netcoreapp1.1\MyCore.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\bin\Release\netcoreapp1.1\MyCore.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Release\netcoreapp1.1\MyCore.csproj.CoreCompileInputs.cache
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Release\netcoreapp1.1\MyCore.AssemblyInfo.cs
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Release\netcoreapp1.1\MyCore.dll
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Release\netcoreapp1.1\MyCore.pdb
+D:\SourceCode\BaoZD\Documents\Demo\CoreConseleApp\WebAppCore2\obj\Release\netcoreapp1.1\MyCore.csprojResolveAssemblyReference.cache
